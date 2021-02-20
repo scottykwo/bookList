@@ -1,0 +1,5 @@
+/.terraform.lock.hcl
+/dev.tfvars
+/milestone1.py
+/practice.py
+/providers.tf
